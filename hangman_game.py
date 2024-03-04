@@ -1,3 +1,4 @@
+#Donot forget to download hangman_art.py and hangman_words.py files.
 import random
 
 #TODO-1: - Update the word list to use the 'word_list' from hangman_words.py
