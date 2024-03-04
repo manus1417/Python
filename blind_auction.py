@@ -1,3 +1,4 @@
+#Donot forget to download blind_auction_logo.py file.
 import os
 clear=lambda: os.system('cls')
 from blind_auction_logo import logo
